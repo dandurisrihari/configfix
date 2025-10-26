@@ -1,0 +1,4 @@
+[submodule "linux"]
+	path = linux
+	url = https://github.com/delta-one/linux.git
+	branch = copy_patch_v6.10
